@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *iOS Pre-Work*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ricardo Ortega-Pacheco**
 
-**Name of your app** is an app that... [TODO]
+**iOS Pre-Work** is an app that randomly changes the background color when you click the button.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -15,9 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
+<img src='https://imgur.com/lndtUt5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+GIF created with LICEcap via MacOS
 
 ## App Brainstorming
     - RobinHood
@@ -27,10 +27,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+         none encountered
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Ricardo Ortega-Pacheco]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
