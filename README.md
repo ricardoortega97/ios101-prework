@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='https://imgur.com/lndtUt5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/lndtUt5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap via MacOS
 
